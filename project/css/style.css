@@ -1,0 +1,44 @@
+body {
+	background-color: #d3d3d3 !important;
+}
+
+
+.header {
+	padding: 15px 0;
+	background-color: #d3d3d3;
+	text-align: center;
+}
+
+.header a{
+	font-weight: 500;
+	text-decoration: none;
+	margin: 10px;
+	text-transform: uppercase;
+	color: #446FF6;
+	transition: 0.2s ease-in-out;
+}
+
+.header a:hover{
+	color: #ff0000;
+}
+
+.container {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.container textarea {
+	height: 200px;
+}
+
+.manual-symbols {
+	font-weight: 500 !important;
+}
+
+#footer {
+	text-align: center;
+}
+
+.devName {
+	color: darkgreen;
+}
